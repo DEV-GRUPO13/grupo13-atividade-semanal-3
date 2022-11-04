@@ -113,3 +113,23 @@ color: #656464;
     border-radius: 14px;
     color: white;
 }
+.net-home{
+    
+    position: absolute;
+    width: 117px;
+    height: 12px;
+    left: 165px;
+    top: 227px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    /* identical to box height, or 100% */
+    
+    text-align: center;
+    
+    color: #217BF4;
+    
+}
