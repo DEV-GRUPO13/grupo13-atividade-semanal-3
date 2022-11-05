@@ -117,7 +117,6 @@ color: #656464;
     
     position: absolute;
     width: 117px;
-    height: 12px;
     left: 165px;
     top: 227px;
     
@@ -132,4 +131,75 @@ color: #656464;
     
     color: #217BF4;
     
+}
+.text-home{
+    position: absolute;
+    width: 515px;
+    height: 132px;
+    left: 135px;
+    top: 271px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 66px;
+    /* or 118% */
+
+
+    color: #0A093D;
+}
+.sub-home{
+    position: absolute;
+    width: 491px;
+    height: 56px;
+    left: 135px;
+    top: 421px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+
+    color: #656464;
+}
+.about-home{
+    position: absolute;
+    color: white;
+    width: 162px;
+    height: 62px;
+    left: 135px;
+    top: 519px;
+
+    background: #217BF4;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 14px;
+}
+.invite-home{
+    box-sizing: border-box;
+    position: absolute;
+    width: 167px;
+    height: 62px;
+    left: 315px;
+    top: 519px;
+
+    opacity: 0.5;
+    border: 1px solid #217BF4;
+    border-radius: 14px;
+}
+.img-home{
+    position: absolute;
+    width: 1440px;
+    height: 746px;
+    left: 0px;
+    top: 0px;
+
+    position: absolute;
+    width: 585.52px;
+    height: 501.47px;
+    left: 719px;
+    top: 162px;
 }
