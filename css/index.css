@@ -1,5 +1,13 @@
-.fundo {
-    height: 100px;
-    background-color: red;
-    background-image: linear-gradient(0deg, red, yellow);
+.community {
+    position: absolute;
+    width: 135px;
+    height: 18px;
+    left: 653px;
+    top: 60px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #217BF4;
 }
