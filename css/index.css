@@ -66,3 +66,72 @@
 
     color: #656464;
 }
+
+.retangulo-1 {
+    position: absolute;
+    width: 522px;
+    height: 182px;
+    left: 176px;
+    top: 262px;
+
+    background: #FFFFFF;
+    box-shadow: 14px 22px 52px -12px rgba(127, 127, 127, 0.13);
+    border-radius: 14px;
+}
+
+.imagem1 {
+    position: absolute;
+    left: 10%;
+    right: 80%;
+    top: 20%;
+    bottom: 64.33%;
+
+}
+
+.member {
+    position: absolute;
+    width: 209px;
+    height: 26px;
+    left: 200px;
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+
+
+
+    color: #2F2C4A;
+
+}
+
+.texto1 {
+    position: absolute;
+    width: 315px;
+    height: 52px;
+    left: 188px;
+    top: 70px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+
+    color: #656464;
+}
+
+.retangulo2 {
+    position: absolute;
+    width: 522px;
+    height: 182px;
+    left: 742px;
+    top: 262px;
+
+    background: #FFFFFF;
+    border-radius: 14px;
+}
