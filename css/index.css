@@ -1,0 +1,18 @@
+#comunidade {
+    position: absolute;
+    width: 135px;
+    height: 18px;
+    left: 653px;
+    top: 60px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+
+
+    text-align: center;
+
+    color: #217BF4;
+}
