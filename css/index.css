@@ -13,6 +13,10 @@
     background: #2B2B39;
 }
 
+.escolhast {
+    color: #E7E7E7;
+}
+
 
 .subshome {
 
@@ -95,43 +99,33 @@
 
 .subscribe {
 
+
     position: absolute;
-    width: 339px;
-    height: 218px;
+    width: 228px;
+    height: 64px;
     left: 966px;
     top: 30px;
-
-}
-
-.ttstxt {
-    position: absolute;
-    width: 186px;
-    height: 115px;
-    left: 0px;
-    top: 0px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 32px;
-    letter-spacing: 0.0125em;
-    color: #E7E7E7;
+    color: #FFFFFF;
+
 }
 
 .stxt {
 
     position: absolute;
-    width: 96px;
-    height: 20px;
-    left: 697px;
-    top: 78px;
-
+    width: 274px;
+    height: 56px;
+    left: 2px;
+    top: 94px;
     font-family: 'Inter';
     font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 20px;
-
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
     color: #E7E7E7;
 }
 
@@ -141,29 +135,57 @@
     width: 339px;
     height: 48px;
     left: 0px;
-    top: 172px;
+    top: 203px;
     border: 1px solid rgba(255, 255, 255, 0.85);
     border-radius: 12px;
 }
 
-.btnsubscribe {
+.btns {
     position: absolute;
-    width: 78px;
-    height: 16px;
+    width: 126px;
+    height: 48px;
     left: 0px;
-    top: 260px;
+    top: 15px;
 
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 12px;
+    text-align: center;
+    letter-spacing: 0.0125em;
+    color: #717179;
+}
+
+
+.button3 {
+    position: absolute;
+    width: 126px;
+    height: 48px;
+    left: 213px;
+    top: 203px;
+    background: #FFFFFF;
+    border-radius: 12px;
+
+}
+
+.button3st {
+    position: absolute;
+    width: 126px;
+    height: 48px;
+    left: 0px;
+    top: 15px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 16px;
-
     text-align: center;
-
     color: #2B2B39;
 
 }
+
+
 
 
 
@@ -194,4 +216,20 @@
     font-size: 14px;
     line-height: 14px;
     color: #F6F6F6;
+}
+
+.img {
+    position: absolute;
+    width: 143px;
+    height: 34px;
+    left: 656px;
+    top: 26px;
+}
+
+.logospng {
+    position: absolute;
+    width: 155px;
+    height: 36px;
+    left: 1152px;
+    top: 26px;
 }
