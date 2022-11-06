@@ -196,6 +196,43 @@
     position: absolute;
     width: 66px;
     height: 66px;
-    left: 190px;
+    left: 195px;
     top: 530px;
+}
+
+.foru {
+    position: absolute;
+    width: 74px;
+    height: 26px;
+    left: 270px;
+    top: 515px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+
+
+
+    color: #2F2C4A;
+
+}
+
+.texto3 {
+    position: absolute;
+    width: 315px;
+    height: 52px;
+    left: 270px;
+    top: 555px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+
+    color: #656464;
 }
