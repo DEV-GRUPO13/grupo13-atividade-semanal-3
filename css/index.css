@@ -194,9 +194,8 @@
 
 .imagem3 {
     position: absolute;
-    left: 16.11%;
-    right: 81.53%;
-    top: 56.09%;
-    bottom: 41.14%;
-
+    width: 66px;
+    height: 66px;
+    left: 190px;
+    top: 530px;
 }
