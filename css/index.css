@@ -347,3 +347,31 @@
     top: 1500px;
     background: #E5F0FD;
 }
+
+.get-our {
+    position: absolute;
+    width: 158px;
+    height: 18px;
+    left: 135px;
+    top: 1600px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #217BF4;
+}
+
+.you-can {
+    position: absolute;
+    width: 351px;
+    height: 104px;
+    left: 135px;
+    top: 1610px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 52px;
+    color: #0A093D;
+}
