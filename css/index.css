@@ -71,7 +71,7 @@
     width: 66px;
     height: 66px;
     left: 20px;
-    top: 40px;
+    top: 45px;
 
 }
 
@@ -80,7 +80,7 @@
     width: 209px;
     height: 26px;
     left: 100px;
-    top: 20px;
+    top: 30px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -95,7 +95,7 @@
     width: 315px;
     height: 90px;
     left: 100px;
-    top: 60px;
+    top: 70px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -119,7 +119,7 @@
     width: 66px;
     height: 66px;
     left: 20px;
-    top: 40px;
+    top: 45px;
 }
 
 .group {
@@ -127,7 +127,7 @@
     width: 85px;
     height: 26px;
     left: 100px;
-    top: 20px;
+    top: 30px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -141,7 +141,7 @@
     width: 315px;
     height: 52px;
     left: 100px;
-    top: 60px;
+    top: 70px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -165,16 +165,16 @@
     position: absolute;
     width: 66px;
     height: 66px;
-    left: 195px;
-    top: 530px;
+    left: 20px;
+    top: 45px;
 }
 
 .foru {
     position: absolute;
     width: 74px;
     height: 26px;
-    left: 270px;
-    top: 515px;
+    left: 100px;
+    top: 30px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -188,8 +188,111 @@
     position: absolute;
     width: 315px;
     height: 52px;
-    left: 270px;
-    top: 555px;
+    left: 100px;
+    top: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #656464;
+}
+
+.retangulo4 {
+    position: absolute;
+    width: 522px;
+    height: 182px;
+    left: 742px;
+    top: 488px;
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+
+.imagem4 {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 20px;
+    top: 45px;
+
+}
+
+.custom {
+    position: absolute;
+    width: 184px;
+    height: 26px;
+    left: 100px;
+    top: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+    color: #2F2C4A;
+}
+
+.texto4 {
+    position: absolute;
+    width: 315px;
+    height: 78px;
+    left: 100px;
+    top: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #656464;
+}
+
+.retangulo5 {
+    position: absolute;
+    width: 522px;
+    height: 182px;
+    left: 176px;
+    top: 714px;
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+
+.imagem5 {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 20px;
+    top: 45px;
+}
+
+.list {
+    position: absolute;
+    width: 130px;
+    height: 26px;
+    left: 100px;
+    top: 30px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+    color: #2F2C4A;
+}
+
+.retangulo6 {
+    position: absolute;
+    width: 522px;
+    height: 182px;
+    left: 100px;
+    top: 20px;
+    background: #FFFFFF;
+    border-radius: 14px;
+}
+
+.texto5 {
+    position: absolute;
+    width: 315px;
+    height: 52px;
+    left: 884px;
+    top: 800px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
