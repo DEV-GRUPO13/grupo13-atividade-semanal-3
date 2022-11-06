@@ -81,10 +81,10 @@
 
 .imagem1 {
     position: absolute;
-    left: 10%;
-    right: 80%;
-    top: 20%;
-    bottom: 64.33%;
+    width: 66px;
+    height: 66px;
+    left: 80px;
+    top: 50px;
 
 }
 
@@ -93,7 +93,7 @@
     width: 209px;
     height: 26px;
     left: 200px;
-    top: 30px;
+    top: 55px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -110,9 +110,9 @@
 .texto1 {
     position: absolute;
     width: 315px;
-    height: 52px;
+    height: 90px;
     left: 188px;
-    top: 70px;
+    top: 90px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -134,4 +134,30 @@
 
     background: #FFFFFF;
     border-radius: 14px;
+}
+
+.imagem2 {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    left: 782px;
+    top: 302px;
+}
+
+.group {
+    position: absolute;
+    width: 85px;
+    height: 26px;
+    left: 884px;
+    top: 308px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+
+
+
+    color: #2F2C4A;
 }
