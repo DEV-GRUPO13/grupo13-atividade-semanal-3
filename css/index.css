@@ -8,7 +8,6 @@
     height: 1069px;
     left: 0px;
     top: 0px;
-
     background: linear-gradient(0deg, rgba(241, 246, 253, 0) 1.63%, #F1F6FD 20.5%, #F1F6FD 58.57%, #FFFFFF 100%);
 }
 
@@ -18,13 +17,11 @@
     height: 18px;
     left: 653px;
     top: 60px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
     line-height: 18px;
-
     color: #217BF4;
 }
 
@@ -34,16 +31,12 @@
     height: 36px;
     left: 500px;
     top: 87px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
     font-size: 36px;
     line-height: 36px;
-
-
     text-align: center;
-
     color: #0A093D;
 }
 
@@ -53,17 +46,12 @@
     height: 56px;
     left: 509px;
     top: 142px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 28px;
-
-
-
     text-align: center;
-
     color: #656464;
 }
 
@@ -73,7 +61,6 @@
     height: 182px;
     left: 176px;
     top: 262px;
-
     background: #FFFFFF;
     box-shadow: 14px 22px 52px -12px rgba(127, 127, 127, 0.13);
     border-radius: 14px;
@@ -94,15 +81,11 @@
     height: 26px;
     left: 100px;
     top: 20px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
     line-height: 26px;
-
-
-
     color: #2F2C4A;
 
 }
@@ -113,15 +96,11 @@
     height: 90px;
     left: 100px;
     top: 60px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-
-
-
     color: #656464;
 }
 
@@ -131,7 +110,6 @@
     height: 182px;
     left: 742px;
     top: 262px;
-
     background: #FFFFFF;
     border-radius: 14px;
 }
@@ -150,15 +128,11 @@
     height: 26px;
     left: 100px;
     top: 20px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
     line-height: 26px;
-
-
-
     color: #2F2C4A;
 }
 
@@ -168,15 +142,11 @@
     height: 52px;
     left: 100px;
     top: 60px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-
-
-
     color: #656464;
 
 }
@@ -187,7 +157,6 @@
     height: 182px;
     left: 176px;
     top: 488px;
-
     background: #FFFFFF;
     border-radius: 14px;
 }
@@ -206,15 +175,11 @@
     height: 26px;
     left: 270px;
     top: 515px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
     line-height: 26px;
-
-
-
     color: #2F2C4A;
 
 }
@@ -225,14 +190,10 @@
     height: 52px;
     left: 270px;
     top: 555px;
-
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
-
-
-
     color: #656464;
 }
