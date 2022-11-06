@@ -1,5 +1,25 @@
 #footer {
-    color: #FFFFFF;
     margin: -8px;
     background-color: #2B2B39;
+}
+
+.titulosfooter {
+    margin-inline: 135px;
+    font-family: 'Inter';
+    font-style: normal;
+    line-height: 20px;
+    color: #FFFFFF;
+   
+
+}
+.subshome{
+
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 215px;
+    font-weight: bold;
+
 }
