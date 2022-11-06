@@ -1,0 +1,97 @@
+* { margin: 0; padding: 0; }
+
+.sobre{
+    padding-top: 124px;
+    position: absolute;
+    width: 142px;
+    height: 18px;
+    left: 135px;
+    top: 96.53px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #217BF4;
+}
+
+.titulo-sobre{
+    padding-top: 124px;
+    position: absolute;
+    width: 406px;
+    height: 96px;
+    left: 135px;
+    top: 124.53px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #0A093D;
+}
+
+.resposta-sobre{
+    padding-top: 124px;
+    position: absolute;
+    width: 406px;
+    height: 84px;
+    left: 135px;
+    top: 236.53px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #656464;
+}
+
+.lista-sobre{
+    padding-top: 124px;
+    position: absolute;
+    width: 63px;
+    height: 18px;
+    left: 165px;
+    top: 356.53px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    color: #171648;
+}
+
+.lista-sobre li{
+    color: #217BF4;
+  }
+
+  .lista-sobre span{
+    color: black;
+  }
+
+.sobre1{
+    padding-top: 124px;
+    position: absolute;
+    width: 281px;
+    height: 422px;
+    left: 733px;
+    top: 64px;
+}
+
+.sobre2{
+    padding-top: 124px;
+    position: absolute;
+    width: 267px;
+    height: 252px;
+    left: 1039px;
+    top: 28px;
+}
+
+.sobre3{
+    padding-top: 124px;
+    position: absolute;
+    width: 267px;
+    height: 252px;
+    left: 1039px;
+    top: 295px;
+}
+
