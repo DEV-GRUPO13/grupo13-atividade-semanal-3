@@ -1,9 +1,4 @@
-#footer {}
-
-/*não está sendo usada*/
-
-.base {
-
+#footer {
     position: absolute;
     width: 1440px;
     height: 485px;
@@ -185,12 +180,6 @@
 
 }
 
-
-
-
-
-
-/*//////////////////////*/
 .cor_rodape {
 
     position: absolute;
