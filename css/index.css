@@ -13,10 +13,10 @@
     background: #2B2B39;
 }
 
-.escolhast {
-    color: #E7E7E7;
+.letrasestyle {
+    color: #ffffff;
+    text-decoration-line: none;
 }
-
 
 .subshome {
 
@@ -233,3 +233,7 @@
     left: 1152px;
     top: 26px;
 }
+
+
+
+/*garantinho que irar salvar tudo*/
