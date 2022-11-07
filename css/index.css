@@ -123,17 +123,13 @@
     position: absolute;
     width: 164px;
     left: 165px;
-    top: 200px;
-
+    top: -318px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
     font-size: 12px;
     line-height: 30px;
-    /* identical to box height, or 100% */
-
     text-align: center;
-
     color: #217BF4;
 
 }
@@ -143,16 +139,12 @@
     width: 515px;
     height: 132px;
     left: 135px;
-    top: 203px;
-
+    top: -276px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
     font-size: 56px;
     line-height: 66px;
-    /* or 118% */
-
-
     color: #0A093D;
 }
 
@@ -161,16 +153,12 @@
     width: 491px;
     height: 56px;
     left: 135px;
-    top: 381px;
-
+    top: -93px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
-    /* or 156% */
-
-
     color: #656464;
 }
 
@@ -180,10 +168,9 @@
     width: 162px;
     height: 62px;
     left: 135px;
-    top: 475px;
-
+    top: -34px;
     background: #217BF4;
-    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    box-shadow: 0px 7px 22px -6px rgb(33 123 244 / 34%);
     border-radius: 14px;
 }
 
@@ -201,13 +188,11 @@
 }
 
 .img-home {
-
-
     position: absolute;
     width: 585.52px;
     height: 501.47px;
     left: 719px;
-    top: 80px;
+    top: -350px;
 }
 
 /*///////////////////////////////////////////////////////////////////////////////////*/
@@ -215,7 +200,70 @@
     margin: 0;
     padding: 0;
 }
-
+#Header{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+}
+#Home{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 10px;
+    top: 500px
+}
+#Sobre-nos{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 1000px;
+}
+#Avaliacoes{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top:1500px;
+}
+#Comunidade{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top:2000px;
+}
+#Membros{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top:2500px;
+}
+#Publicidade{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 3000px;
+}
+#Ultimas-noticias{
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top:3500px;
+}
+#footer {
+    position: absolute;
+    width: 1440px;
+    height: 485px;
+    left: 0px;
+    top: 5125px;
+    background: #2B2B39;
+}
 
 /*Inicio css sobre */
 
@@ -1264,14 +1312,7 @@
 }
 
 /*///////////////////////////////////////////////////////////////////////////////////*/
-#footer {
-    position: absolute;
-    width: 1440px;
-    height: 485px;
-    left: 0px;
-    top: 2083px;
-    background: #2B2B39;
-}
+
 
 .letrasestyle {
     color: #ffffff;
