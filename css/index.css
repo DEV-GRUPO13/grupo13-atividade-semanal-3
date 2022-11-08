@@ -12,6 +12,30 @@
     color: #2B2B39;
 }
 
+.arrow {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    left: 215px;
+    top: 291px;
+}
+
+.arrow2 {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    left: 165px;
+    top: 291px;
+}
+
+.arrow3 {
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top: 1068px;
+    left: 1055px;
+}
+
 .img-logo {
     position: absolute;
     width: 103px;
@@ -123,7 +147,7 @@
     position: absolute;
     width: 164px;
     left: 165px;
-    top: -318px;
+    top: 158px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 500;
@@ -153,7 +177,7 @@
     width: 491px;
     height: 56px;
     left: 135px;
-    top: -93px;
+    top: -131px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;
@@ -180,8 +204,7 @@
     width: 167px;
     height: 62px;
     left: 315px;
-    top: 475px;
-
+    top: -34px;
     opacity: 0.5;
     border: 1px solid #217BF4;
     border-radius: 14px;
@@ -200,62 +223,71 @@
     margin: 0;
     padding: 0;
 }
-#Header{
+
+#Header {
     position: absolute;
     width: 0px;
     height: 0px;
     left: 0px;
     top: 0px;
 }
-#Home{
+
+#Home {
     position: absolute;
     width: 0px;
     height: 0px;
     left: 10px;
-    top: 500px
+    top: 30px;
 }
-#Sobre-nos{
+
+#Sobre-nos {
     position: absolute;
     width: 0px;
     height: 0px;
     left: 0px;
-    top: 1000px;
+    top: 650px;
 }
-#Avaliacoes{
+
+#Avaliacoes {
     position: absolute;
     width: 0px;
     height: 0px;
     left: 0px;
-    top:1500px;
+    top: 690px;
 }
-#Comunidade{
+
+#Comunidade {
     position: absolute;
     width: 0px;
     height: 0px;
     left: 0px;
-    top:2000px;
+    top: 1883px;
 }
-#Membros{
+
+#Membros {
+    position: absolute;
+    width: 1440px;
+    height: 0px;
+    left: 0px;
+    top: -99px;
+}
+
+#Publicidade {
     position: absolute;
     width: 0px;
     height: 0px;
     left: 0px;
-    top:2500px;
+    top: 2168px;
 }
-#Publicidade{
+
+#Ultimas-noticias {
     position: absolute;
     width: 0px;
     height: 0px;
-    left: 0px;
-    top: 3000px;
+    left: -190px;
+    top: 4336px;
 }
-#Ultimas-noticias{
-    position: absolute;
-    width: 0px;
-    height: 0px;
-    left: 0px;
-    top:3500px;
-}
+
 #footer {
     position: absolute;
     width: 1440px;
@@ -500,13 +532,6 @@
     color: #217BF4;
 }
 
-.arrow {
-    position: absolute;
-    height: 15px;
-    width: 15px;
-    left: 215px;
-    top: 291px;
-}
 
 .git {
     position: absolute;
@@ -560,15 +585,6 @@
     font-size: 16px;
     line-height: 16px;
     color: #4A4A56;
-}
-
-
-.arrow2 {
-    position: absolute;
-    height: 15px;
-    width: 15px;
-    left: 165px;
-    top: 291px;
 }
 
 
@@ -646,13 +662,7 @@
 }
 
 
-.arrow3 {
-    position: absolute;
-    width: 16px;
-    height: 16px;
-    top: 1068px;
-    left: 1055px;
-}
+
 
 /*Fim css avaliações */
 .body {
@@ -1063,11 +1073,9 @@
 
 .mobile {
     position: absolute;
-    width: 800px;
-    height: 500px;
-    left: 682px;
-    top: 1559px;
-
+    width: 476.55px;
+    left: 839px;
+    top: 1503px;
 }
 
 /*///////////////////////////////////////////////////////////////////////////////////*/
@@ -1399,10 +1407,8 @@
 }
 
 .subscribe {
-
-
     position: absolute;
-    width: 228px;
+    width: 300px;
     height: 64px;
     left: 966px;
     top: 30px;
@@ -1528,3 +1534,511 @@
     left: 1152px;
     top: 26px;
 }
+
+/*////////////////////////////////////////*/
+.logo-header{
+    position: absolute;
+    width: 103px;
+    height: 24px;
+    left: 203px;
+    top: 35px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+    color: #2B2B39;
+}
+.img-logo{
+    position: absolute;
+    width: 103px;
+    height: 24px;
+    left: 160px;
+    top: 35px;
+}
+.home-nav{
+    position: absolute;
+    width: 41px;
+    height: 14px;
+    left: 350px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height, or 100% */
+
+    letter-spacing: 0.01em;
+
+color: #2B2B39;
+}
+
+.Community-nav{
+    position: absolute;
+    width: 78px;
+    height: 14px;
+    left: 423px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height, or 100% */
+
+    letter-spacing: 0.01em;
+
+    color: #656464;
+
+}
+.seta{
+    position: absolute;
+    left: 502px;
+    right: 18.75%;
+    top: 47px;
+    bottom: 31.25%;
+}
+.blog-nav{
+    position: absolute;
+width: 31px;
+height: 14px;
+left: 547px;
+top: 40px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 14px;
+/* identical to box height, or 100% */
+
+letter-spacing: 0.01em;
+
+color: #656464;
+}
+.Events-nav{
+    position: absolute;
+    width: 46px;
+    height: 14px;
+    left: 610px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height, or 100% */
+
+    letter-spacing: 0.01em;
+
+    color: #656464;
+
+}
+.login-nav{
+    position: absolute;
+    width: 123px;
+    height: 50px;
+    left: 1182px;
+    top: 22px;
+
+    background: #217BF4;
+
+    border-radius: 14px;
+    color: white;
+}
+
+.text-home{
+    position: absolute;
+    width: 515px;
+    height: 132px;
+    left: 135px;
+    top: 203px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 66px;
+    /* or 118% */
+
+
+    color: #0A093D;
+}
+.sub-home{
+    position: absolute;
+    width: 491px;
+    height: 56px;
+    left: 135px;
+    top: 381px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+
+    color: #656464;
+}
+.about-home{
+    position: absolute;
+    color: white;
+    width: 162px;
+    height: 62px;
+    left: 135px;
+    top: 475px;
+
+    background: #217BF4;
+    box-shadow: 0px 7px 22px -6px rgba(33, 123, 244, 0.34);
+    border-radius: 14px;
+}
+.invite-home{
+    box-sizing: border-box;
+    position: absolute;
+    width: 167px;
+    height: 62px;
+    left: 315px;
+    top: 475px;
+
+    opacity: 0.5;
+    border: 1px solid #217BF4;
+    border-radius: 14px;
+}
+.img-home{
+
+
+    position: absolute;
+    width: 585.52px;
+    height: 501.47px;
+    left: 719px;
+    top: 80px;
+}
+.team-membros{
+    position: absolute;
+    width: 126px;
+    height: 18px;
+    left: 657px;
+    top: 3000px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    /* identical to box height, or 100% */
+
+    text-align: center;
+
+    color: #217BF4;
+}
+.our-membros{
+    position: absolute;
+    width: 362px;
+    height: 36px;
+    left: 539px;
+    top: 3028px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    /* identical to box height, or 100% */
+
+    text-align: center;
+
+    color: #0A093D;
+}
+.text-membros{
+    position: absolute;
+    width: 454px;
+    height: 56px;
+    left: 493px;
+    top: 3084px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+
+    text-align: center;
+
+    color: #656464;
+}
+.memb-fundo{
+    position: absolute;
+    width: 474px;
+    height: 72px;
+    left: 483px;
+    top: 3178px;
+
+    background: #217BF4;
+    opacity: 0.06;
+    border-radius: 14px;
+}
+.new-memb{
+    position: absolute;
+    width: 50px;
+    height: 16px;
+    left: 541px;
+    top: 3190px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+    /* identical to box height, or 100% */
+    color: #2F2C4A;
+
+    opacity: 0.8;
+}
+.pup-memb{
+    position: absolute;
+    width: 60px;
+    height: 16px;
+    left: 689px;
+    top: 3190px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+
+
+    color: #2F2C4A;
+
+    opacity: 0.8;
+}
+.act-memb{
+    position: absolute;
+    color: white;
+    width: 150px;
+    height: 56px;
+    left: 799px;
+    font-size: 16px;
+    top: 3186px;
+
+    background: #217BF4;
+    box-shadow: 0px 7px 22px -6px rgba(0, 72, 168, 0.34);
+    border-radius: 14px;
+}
+.base1{
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    left: 135px;
+    top: 3324px;
+   
+
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+}
+.base2{
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    left: 435px;
+    top: 3324px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+}
+.base3{
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    left: 735px;
+    top: 3324px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+}
+.base4{
+    position: absolute;
+    width: 270px;
+    height: 316px;
+    left: 1035px;
+    top: 3324px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 34px 68px rgba(116, 115, 128, 0.1);
+    border-radius: 14px;
+}
+.img1-memb{
+    position: absolute;
+    width: 191px;
+    height: 182px;
+    left: 185px;
+    top: 3354px;
+
+    filter: drop-shadow(0px -10px 50px rgba(17, 50, 101, 0.08));
+}
+
+.nome1{
+    position: absolute;
+    width: 171px;
+    height: 26px;
+    left: 184px;
+    top: 3554px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+    color: #2F2C4A;
+
+}
+.id-1{
+    position: absolute;
+    width: 72px;
+    height: 16px;
+    left: 234px;
+    top: 3594px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #656464;
+}
+.img2-memb{
+    position: absolute;
+    width: 191px;
+    height: 182px;
+    left: 474px;
+    top: 3354px;
+
+    filter: drop-shadow(0px -10px 50px rgba(0, 64, 164, 0.1));
+}
+
+.nome2{
+    position: absolute;
+    width: 150px;
+    height: 26px;
+    left: 495px;
+    top: 3554px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+
+    color: #2F2C4A;
+
+}
+.id-2{
+    position: absolute;
+    width: 76px;
+    height: 16px;
+    left: 532px;
+    top: 3594px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+
+
+    color: #656464;
+}
+.img3-memb{
+    position: absolute;
+    width: 191px;
+    height: 182px;
+    left:  770px;
+    top: 3354px;
+
+    filter: drop-shadow(0px -10px 50px rgba(0, 64, 164, 0.1));
+}
+
+.nome3{
+    position: absolute;
+    width: 155px;
+    height: 26px;
+    left: 792px;
+    top: 3554px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+
+
+color: #2F2C4A;
+}
+.id-3{
+    position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 836px;
+    top: 3594px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #656464;
+}
+.img4-memb{
+    position: absolute;
+    width: 191px;
+    height: 182px;
+    left: 1071px;
+    top: 3354px;
+
+    filter: drop-shadow(0px -10px 50px rgba(0, 64, 164, 0.1));
+}
+
+.nome4{
+    position: absolute;
+    width: 118px;
+    height: 26px;
+    left: 1111px;
+    top: 3554px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+
+
+    color: #2F2C4A;
+
+}
+.id-4{
+    position: absolute;
+    width: 43px;
+    height: 16px;
+    left: 1149px;
+    top: 3594px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #656464;
+    }
